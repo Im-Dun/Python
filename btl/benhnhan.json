@@ -1,0 +1,18 @@
+{
+    "BN001": {
+        "TenBN": "Nguyen Van B",
+        "NgaySinh": "2002-03-15",
+        "GioiTinh": "Nam",
+        "DiaChi": "Yen Bai",
+        "Tuoi": 16,
+        "SDT": "0123456798"
+    },
+    "BN002": {
+        "TenBN": "Tran Thi B",
+        "NgaySinh": "1998-08-14",
+        "GioiTinh": "Nu",
+        "DiaChi": "Ho Chi Minh",
+        "Tuoi": 25,
+        "SDT": "0987654321"
+    }
+}

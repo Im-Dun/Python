@@ -1,0 +1,16 @@
+{
+  "LK001": {
+    "MaBN": "BN001",
+    "MaBS": "BS001",
+    "NgayKham": "2025-05-10",
+    "GioKham": "09:00",
+    "Phong": "P101"
+  },
+  "LK002": {
+    "MaBN": "BN002",
+    "MaBS": "BS002",
+    "NgayKham": "2025-05-11",
+    "GioKham": "10:30",
+    "Phong": "P202"
+  }
+}

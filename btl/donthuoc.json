@@ -1,0 +1,29 @@
+{
+  "DT001": {
+    "MaBN": "BN001",
+    "NgayKe": "2025-05-10",
+    "Thuoc": [
+      {
+        "TenThuoc": "Paracetamol",
+        "SoLuong": 10,
+        "DonGia": 20000
+      },
+      {
+        "TenThuoc": "Amoxicillin",
+        "SoLuong": 20,
+        "DonGia": 30000
+      }
+    ]
+  },
+  "DT002": {
+    "MaBN": "BN002",
+    "NgayKe": "2025-05-11",
+    "Thuoc": [
+      {
+        "TenThuoc": "Vitamin C",
+        "SoLuong": 15,
+        "DonGia": 15000
+      }
+    ]
+  }
+}

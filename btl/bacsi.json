@@ -1,0 +1,14 @@
+{
+  "BS001": {
+    "TenBS": "Le Van Khoa",
+    "ChuyenKhoa": "Nội tổng quát",
+    "GioiTinh": "Nam",
+    "SDT": "0912345678"
+  },
+  "BS002": {
+    "TenBS": "Nguyen Thi Lan",
+    "ChuyenKhoa": "Nhi khoa",
+    "GioiTinh": "Nu",
+    "SDT": "0987654321"
+  }
+}
